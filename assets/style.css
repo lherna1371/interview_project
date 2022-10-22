@@ -1,0 +1,29 @@
+/* three selectors */
+
+/* tag name */
+img {
+    height: 300px;
+    border: 3px solid red;
+}
+
+h1 {
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: blue;
+}
+
+/* class name */
+.purple-text {
+    color: purple;
+    font-size: 2em;
+}
+
+
+/* id name */
+
+#chi {
+    text-align: center;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
